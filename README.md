@@ -16,6 +16,8 @@ a duelboot pi with both raspbian and retro pie.
 for Non RPI computers running a version of Debian linux( ubuntu, mint, etc)  select the first option when prompted in 
 the installer.
 
+if you wish to delete(uninstall) rubian, rather than deleting the folder,  run the Rubin Installer script again, and it will detect that it has installed the gem and will ask if you wish to uninstall, deleting the gem files, and ready the test-pi folder for a new install and round of testing.
+
 Rubian will be installed in the users created test-pi folder on the desktop, with Rubian Core and its required gem files.
 you can view the source code of Rubian in this folder.  Feel free to add and modify the commands as needed in the Rubian gem to get a better proper testing.
 
